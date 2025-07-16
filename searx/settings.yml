@@ -336,13 +336,13 @@ categories_as_tabs:
 engines:
   - name: google
     engine: google
-    shortcut: google
-    disabled: true
+    shortcut: g
+    disabled: false
 
   - name: bing
     engine: bing
-    shortcut: bing
-    disabled: true
+    shortcut: b
+    disabled: false
     
   - name: 360search
     engine: 360search
